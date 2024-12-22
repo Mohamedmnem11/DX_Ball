@@ -32,3 +32,6 @@ Ball and Grid Collision: The ball destroys blocks on the grid, changing directio
 Boundary and Reset: The ball changes direction on screen boundaries and resets if it falls below the paddle, costing the player a life.
 
 Game Over: The game ends if the player loses all lives or if all blocks are destroyed.!
+![WhatsApp Image 2024-12-22 at 16 25 39_8b0d67d8](https://github.com/user-attachments/assets/8589269f-285e-4bf0-9ad2-c111deb7b320)
+![WhatsApp Image 2024-12-22 at 16 25 06_ad4b00da](https://github.com/user-attachments/assets/7a823654-ac58-421d-af18-3e4f70871dce)
+![WhatsApp Image 2024-12-22 at 16 25 02_b21dc5f0](https://github.com/user-attachments/assets/5984f423-40de-4abc-83bb-690eac97187c)
